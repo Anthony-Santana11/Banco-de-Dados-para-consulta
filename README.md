@@ -66,11 +66,11 @@ O projeto segue a arquitetura em camadas:
 
 ## Licença
 
-Este projeto está sob a licença [sua licença] - veja o arquivo LICENSE.md para detalhes.
+Este projeto está sob a licença [NOVAGM] - veja o arquivo LICENSE.md para detalhes.
 
 ## Autor
 
-* **Anthony Santana** - *Desenvolvimento* - [seu-username](https://github.com/Anthony-Santana11)
+* **Anthony Santana** - *Desenvolvimento* - [Anthony-Santana11](https://github.com/Anthony-Santana11)
 
 ## Versão
 
