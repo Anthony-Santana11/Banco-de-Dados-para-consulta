@@ -70,7 +70,7 @@ Este projeto está sob a licença [sua licença] - veja o arquivo LICENSE.md par
 
 ## Autor
 
-* **Anthony Santana** - *Desenvolvimento* - [seu-username](https://github.com/seu-username)
+* **Anthony Santana** - *Desenvolvimento* - [seu-username](https://github.com/Anthony-Santana11)
 
 ## Versão
 
